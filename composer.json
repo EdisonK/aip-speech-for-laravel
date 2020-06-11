@@ -1,0 +1,15 @@
+{
+    "name": "edisonk/aip-speech-for-laravel",
+    "authors": [
+        {
+            "name": "EdisonK",
+            "email": "zhd@thinkerx.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Edisonk\\AipSpeech\\": "src/"
+        }
+    }
+}
